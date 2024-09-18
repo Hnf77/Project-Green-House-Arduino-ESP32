@@ -91,7 +91,7 @@ void loop() {
 
   lcd.setCursor(0, 1);
   lcd.print("L: ");
-  lcd.print(lightValue == HIGH ? "Gelap" : "Terang");
+  lcd.print(lightValue == HIGH ? "Terang" : "Gelap");
   lcd.print(" S: ");
   lcd.print(soilMoisturePercent);
   lcd.print("%");
