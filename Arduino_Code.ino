@@ -49,9 +49,9 @@ void loop() {
   espSerial.print(soilMoisturePercent);
   espSerial.print(",");
   if (lightValue == HIGH) {
-    espSerial.println("Gelap");
-  } else {
     espSerial.println("Terang");
+  } else {
+    espSerial.println("Gelap");
   }
 
   // Tampilkan data di Serial Monitor
@@ -62,7 +62,7 @@ void loop() {
   Serial.print("Soil Moisture: ");
   Serial.println(soilMoisturePercent);
   Serial.print("Light Value: ");
-  Serial.println(lightValue == HIGH ? "Gelap" : "Terang");
+  Serial.println(lightValue == HIGH ? "Terang" : "Gelap");
 
 
   // Kontrol pompa otomatis berdasarkan sensor
