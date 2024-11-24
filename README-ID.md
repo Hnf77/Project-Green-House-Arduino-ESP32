@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk membuat sistem rumah kaca pintar menggunakan **Arduino Uno** dan **ESP32**, yang dirancang untuk perawatan tanaman otomatis dan pemantauan secara real-time. Sistem ini memanfaatkan kombinasi sensor dan sistem otomatis untuk memastikan kondisi tumbuh yang optimal.
 
 ## Terjemahan
-- <a href="">Inggris</a>
+- <a href="https://github.com/Hnf77/Project-Green-House-Arduino-ESP32/blob/main/README.md">Inggris</a>
 
 ## Fitur
 - **Pemantauan Suhu**: Melacak suhu secara real-time di dalam rumah kaca.
