@@ -4,7 +4,7 @@
 This project aims to create a smart greenhouse system using **Arduino Uno** and **ESP32**, designed for automated plant care and real-time monitoring. It utilizes a combination of sensors and automated systems to ensure optimal growing conditions.
 
 ## Translation
-- <a href="">Indonesian</a>
+- <a href="https://github.com/Hnf77/Project-Green-House-Arduino-ESP32/blob/main/README-ID.md">Indonesian</a>
 
 ## Features
 - **Temperature Monitoring**: Real-time temperature tracking inside the greenhouse.
